@@ -1,4 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Houda El Amri=====================================================================================================================================Computer science engineering student------------------------------------Excited to delve into the realms of web development and artificial intelligence, I am eager to absorb knowledge and explore these dynamic fields.* 🌍  I'm based in Tunisia* 🖥️  See my portfolio at [My portfolio](http://houdaelamri.com)* ✉️  You can contact me at [contact@houdaelamri.com](mailto:contact@houdaelamri.com)* 🧠  I'm learning deep learning : CNN , YOLO , TENSORFLOW* 🤝  I'm open to collaborating on exciting projects as a frontend developer, backend developer .
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Houda El Amri
+=====================================================================================================================================
+Computer science engineering student
+------------------------------------
+Excited to delve into the realms of web development and artificial intelligence, I am eager to absorb knowledge and explore these dynamic fields.
+* 🌍  I'm based in Tunisia
+* 🖥️  See my portfolio at [My portfolio](http://houdaelamri.com)
+* ✉️  You can contact me at [contact@houdaelamri.com](mailto:contact@houdaelamri.com)
+* 🧠  I'm learning deep learning : CNN , YOLO , TENSORFLOW
+* 🤝  I'm open to collaborating on exciting projects as a frontend developer, backend developer .
 
 ### Skills
 
