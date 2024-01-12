@@ -25,7 +25,7 @@ Excited to delve into the realms of web development and artificial intelligence,
 
 <a href="http://www.github.com/Houda-2001"><img src="https://github-readme-stats.vercel.app/api?username=Houda-2001&show_icons=true&hide=prs,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="Houda-2001's GitHub stats" /></a>
 
-<a href="http://www.github.com/Houda-2001"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Houda-2001&stroke=ffffff&background=171717&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 
 
